@@ -1,0 +1,11 @@
+export { default as Hero } from './Hero';
+export { default as TerminalAbout } from './TerminalAbout';
+export { default as TechStack } from './TechStack';
+export { default as Projects } from './Projects';
+export { default as UiUxShowcase } from './UiUxShowcase';
+export { default as CaseStudies } from './CaseStudies';
+export { default as StatsSection } from './StatsSection';
+export { default as Experience } from './Experience';
+export { default as Testimonials } from './Testimonials';
+export { default as Blog } from './Blog';
+export { default as Contact } from './Contact';
