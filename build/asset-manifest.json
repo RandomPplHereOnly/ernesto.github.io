@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ernesto.github.io/static/css/main.1d634aa5.css",
+    "main.js": "/ernesto.github.io/static/js/main.a80fe7d9.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/ernesto.github.io/static/js/453.fd2f0c4a.chunk.js",
+    "index.html": "/ernesto.github.io/index.html",
+    "main.1d634aa5.css.map": "/ernesto.github.io/static/css/main.1d634aa5.css.map",
+    "main.a80fe7d9.js.map": "/ernesto.github.io/static/js/main.a80fe7d9.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/ernesto.github.io/static/js/453.fd2f0c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d634aa5.css",
+    "static/js/main.a80fe7d9.js"
+  ]
+}
